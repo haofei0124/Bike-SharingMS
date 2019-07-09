@@ -2,6 +2,7 @@
   "name": "imoocmanager1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/haofei0124/Bike-SharingMS.git",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@babel/plugin-syntax-jsx": "^7.2.0",
